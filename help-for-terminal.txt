@@ -1,4 +1,0 @@
-Issues:
-- when executing merger, terminal states I must include a message but becomes weird and nothing can be typed or executed.
-
-- When trying to log into GitHub, password is rejected and am told I need a token. Which I have created and yet still error
